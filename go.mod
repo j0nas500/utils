@@ -1,4 +1,4 @@
-module github.com/automuteus/utils
+module github.com/j0nas500/utils
 
 go 1.18
 
