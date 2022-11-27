@@ -20,6 +20,23 @@ const (
 	Gray   = 15
 	Tan    = 16
 	Coral  = 17
+	Salmon = 18
+	Bordeaux = 19	
+	Olive = 20
+	Turqoise = 21
+	Mint = 22
+	Lavender = 23
+	Nougat = 24
+	Peach = 25
+	Wasabi = 26
+	HotPink = 27
+	Petrol = 28
+	Lemon = 29
+	SignalOrange = 30
+	Teal = 31
+	Blurple = 32
+	Sunrise = 33
+	Ice = 34
 )
 
 // ColorStrings for lowercase, possibly for translation if needed
@@ -42,6 +59,23 @@ var ColorStrings = map[string]int{
 	"gray":   Gray,
 	"tan":    Tan,
 	"coral":  Coral,
+	"salmon": Salmon,
+	"bordeaux:" Bordeaux,
+	"olive": Olive,
+	"turqoise": Turqoise,
+	"mint:" Mint,
+	"lavender": Lavender,
+	"nougat": Nougat,
+	"peach": Peach,
+	"wasabi": Wasabi,
+	"hotpink": HotPink,
+	"petrol": Petrol,
+	"lemon": Lemon,
+	"signalorange": SignalOrange,
+	"teal": Teal,
+	"blurple": Blurple,
+	"sunrise": Sunrise,
+	"ice": Ice
 }
 
 // GetColorStringForInt does what it sounds like
