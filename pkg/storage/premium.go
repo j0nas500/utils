@@ -3,7 +3,7 @@ package storage
 import (
 	"context"
 	"errors"
-	"github.com/automuteus/utils/pkg/premium"
+	"github.com/j0nas500/utils/pkg/premium"
 	"github.com/jackc/pgx/v4/pgxpool"
 	"log"
 	"strconv"

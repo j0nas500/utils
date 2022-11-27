@@ -1,8 +1,8 @@
 package settings
 
 import (
-	"github.com/automuteus/utils/pkg/game"
-	"github.com/automuteus/utils/pkg/locale"
+	"github.com/j0nas500/utils/pkg/game"
+	"github.com/j0nas500/utils/pkg/locale"
 	"github.com/bwmarrin/discordgo"
 	"sync"
 )

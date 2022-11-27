@@ -2,7 +2,7 @@ package token
 
 import (
 	"context"
-	"github.com/automuteus/utils/pkg/rediskey"
+	"github.com/j0nas500/utils/pkg/rediskey"
 	"github.com/go-redis/redis/v8"
 	"log"
 	"time"

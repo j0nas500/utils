@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/automuteus/utils/pkg/premium"
+	"github.com/j0nas500/utils/pkg/premium"
 	"github.com/jackc/pgconn"
 	"github.com/pashagolub/pgxmock"
 	"testing"
