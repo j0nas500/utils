@@ -63,7 +63,7 @@ var ColorStrings = map[string]int{
 	"bordeaux": Bordeaux,
 	"olive": Olive,
 	"turqoise": Turqoise,
-	"mint:" Mint,
+	"mint": Mint,
 	"lavender": Lavender,
 	"nougat": Nougat,
 	"peach": Peach,
@@ -75,7 +75,7 @@ var ColorStrings = map[string]int{
 	"teal": Teal,
 	"blurple": Blurple,
 	"sunrise": Sunrise,
-	"ice": Ice
+	"ice": Ice,
 }
 
 // GetColorStringForInt does what it sounds like
