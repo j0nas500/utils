@@ -60,7 +60,7 @@ var ColorStrings = map[string]int{
 	"tan":    Tan,
 	"coral":  Coral,
 	"salmon": Salmon,
-	"bordeaux:" Bordeaux,
+	"bordeaux": Bordeaux,
 	"olive": Olive,
 	"turqoise": Turqoise,
 	"mint:" Mint,
