@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/BurntSushi/toml v1.0.0
-	github.com/j0nas500/utils v0.1.1
 	github.com/bwmarrin/discordgo v0.22.0
 	github.com/georgysavva/scany v0.2.7
 	github.com/go-redis/redis/v8 v8.4.2
